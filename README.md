@@ -4,7 +4,8 @@
 <b>Discipline | <b> Electronics and communication engineering 
 :--|:--|
 <b> Lab | <b> Digital System Desigh
-<b> Experiment|     <b>Implimentation of given boolean function using logic gate in the both SOP and POS forms.
+<b> Experiment|     <b> Simulation of Amplifier Circuits (custom circuit building)
+
 
 ### About the Experiment 
 
