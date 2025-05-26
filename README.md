@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | < Electronics and communication engineering 
+<b>Discipline | <b> Electronics and communication engineering 
 :--|:--|
 <b> Lab | <b> Digital System Desigh
 <b> Experiment|     <b>Implimentation of given boolean function using logic gate in the both SOP and POS forms.
